@@ -1,0 +1,6 @@
+{
+    "src/**/*": [
+        "eslint --fix",
+        "npm run test:staged"
+    ]
+}
