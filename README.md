@@ -2,11 +2,11 @@
 
 > Basic typescript setup to start your project quickly
 
-
 # Instruction
 
 ```sh
-    git clone git@github.com:gabrieltorreiro/basic-typescript-setup.git
-    cd basic-typescript-setup
-    ./INSTALL.sh
+    npm install
+    git init
+    npx husky install
+    npm i -D git-commit-msg-linter
 ```
