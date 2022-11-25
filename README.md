@@ -1,6 +1,6 @@
-# Basic Typescript Setup
+# Typescript Boilerplate
 
-> Basic typescript setup to start your project quickly
+> Basic typescript boilerplate to start your project quickly
 
 # Instruction
 
